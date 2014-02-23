@@ -1,7 +1,6 @@
 # ignore all files
 *
 # except these
-!config.cfg
 !autoexec.cfg
 !ffcfg*.cfg
 !.gitignore
