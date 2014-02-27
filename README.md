@@ -3,7 +3,7 @@ ff_tf2cfg
 
 yartFF tf2 config
 
-The overall organization is designed to contain several configs in one folder:
+The overall organization is designed to contain several configs in one:
 - Max fps
 - Demo Rendering (todo)
 - Demo viewing (todo)
