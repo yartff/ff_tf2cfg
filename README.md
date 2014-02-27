@@ -8,7 +8,7 @@ The overall organization is designed to contain several configs in one folder:
 - Demo Rendering (todo)
 - Demo viewing (todo)
 
-To keep your personal keybinds, refer to the section after "How to update"
+Your personnal keybinds won't be erased. Don't worry about the "*_keybinds.cfg" files.
 
 How to install
 ===
@@ -44,12 +44,6 @@ $> git pull
 Without git:
 
 Repeat the "without git" install process
-
-I want to keep MY keybinds :(((
-===
-
-Remove all keybinds related files of my config.
-I didn't find any better method to avoid that :/ I'll figure out one day
 
 ___
 
