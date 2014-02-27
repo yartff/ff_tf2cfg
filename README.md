@@ -46,5 +46,14 @@ Without git:
 Repeat the "without git" install process
 
 ___
+TODO
+===
 
-Inspired from stabby's config, itself inspired from chris's config.
+- Put all remain commands into appropriate files to make a cleaner directory
+- A disable/enable files for features
+- Add configs for other purposes (max quality, demo reviewing, and if I have some other ideas).
+
+___
+
+
+> Inspired from stabby's config, itself inspired from chris's config.
