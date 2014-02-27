@@ -49,9 +49,10 @@ ___
 TODO
 ===
 
-- Put all remain commands into appropriate files to make a cleaner directory
+- Put all remain commands of autoexec.cfg into appropriate files to make a cleaner directory
 - A disable/enable files for features
 - Add configs for other purposes (max quality, demo reviewing, and if I have some other ideas).
+- Make the arborescence in folders
 
 ___
 
