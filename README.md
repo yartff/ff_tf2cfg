@@ -17,7 +17,7 @@ With git:
 
 ```sh
 cd /tmp/
-git checkout git@github.com:yartff/ff_tf2cfg.git
+git clone git@github.com:yartff/ff_tf2cfg.git
 mv ff_tf2cfg/.git* YOUR_TF_FOLDER/cfg
 cd YOUR_TF_FOLDER/cfg
 git checkout '*'
