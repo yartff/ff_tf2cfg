@@ -1,6 +1,0 @@
-# ignore all files
-*
-# except these
-!*.cfg
-!.gitignore
-!record_cfg
