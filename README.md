@@ -24,6 +24,11 @@ git checkout '*'
 // Replace "YOUR_TF_FOLDER" by your tf folder
 ```
 
+(for l4d)
+```sh
+git clone -b l4d git@github.com:yartff/ff_tf2cfg.git
+```
+
 Without git:
 ```
 - Download the archive
